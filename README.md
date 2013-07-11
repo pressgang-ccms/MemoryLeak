@@ -1,0 +1,1 @@
+An application designed to consume all the heap space on an application server. Used for testing.
